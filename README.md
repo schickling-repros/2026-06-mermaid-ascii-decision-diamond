@@ -52,4 +52,4 @@ This is valid Mermaid — the snippet renders correctly (diamond + yes/no branch
 
 ## Related Issue
 
-<!-- filled in after filing -->
+https://github.com/AlexanderGrooff/mermaid-ascii/issues/46 (same root cause: shape text captured as node id; this repro covers the `{}` diamond case specifically — [comment](https://github.com/AlexanderGrooff/mermaid-ascii/issues/46#issuecomment-4757940140))
